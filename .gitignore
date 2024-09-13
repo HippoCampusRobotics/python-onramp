@@ -152,5 +152,5 @@ cython_debug/
 #.idea/
 
 # Ignore Python101_solutions.ipynb
-Python101_solutions.ipynb
+# Python101_solutions.ipynb
 
