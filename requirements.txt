@@ -2,3 +2,5 @@ notebook
 matplotlib
 numpy
 pandas
+jupytext
+
